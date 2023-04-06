@@ -1,0 +1,28 @@
+.tb2{
+    width: 500px;;
+    border-collapse: collapse;
+    text-align: center;
+}
+.tb2 td, th{
+    border: 1px solid black;
+}
+.tb1{
+    width: 500px;
+    color: blue;
+}
+.tb1 td:last-child{
+    text-align: right;
+}
+.head2{
+    background-color: yellow    ;
+}
+.linenew{
+    background-color: orange;
+}
+form{
+    width: 500px;
+   margin: auto;
+   background-image: url(https://cafebiz.cafebizcdn.vn/2019/1/2/photo-1-15464020829431420592113.png);
+   background-size:200px;
+
+}

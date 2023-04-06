@@ -1,0 +1,13 @@
+form{
+ border: 1px solid black;
+ width: 400px;
+ text-indent: 10px;
+margin: auto;
+padding-left: 10px;
+box-shadow: 5px 10px 10px rgba(44, 195, 172, 0.5);
+background: url(https://www.pinterest.com/pin/299419075241396323/);
+}
+input{
+    width: 80px;
+
+}
